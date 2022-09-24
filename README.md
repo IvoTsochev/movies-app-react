@@ -1,4 +1,4 @@
-![Alt text](/homepage.png?raw=true 'Homepage')
+![Alt text](/homepage.png 'Homepage')
 
 # Getting Started with Create React App
 
